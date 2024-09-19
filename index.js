@@ -1,3 +1,5 @@
-let a;
-console.log(a = 35);
+let a = 12;
+let b = 13;
+
+console.log(Math.sqrt(a+b));
 
